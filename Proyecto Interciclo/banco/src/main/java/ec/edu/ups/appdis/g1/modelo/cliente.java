@@ -1,9 +1,10 @@
 package ec.edu.ups.appdis.g1.modelo;
 
-public class cliente {
+public class Cliente {
 	private String cedula;
 	private String nombre;
 	private String email;
+	
 	public String getCedula() {
 		return cedula;
 	}
