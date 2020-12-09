@@ -6,6 +6,7 @@ public class Usuario {
 	private String Nombre;
 	private String correo;
 	private String rol;
+	private String tipo;
 	
 	public String getCedula() {
 		return cedula;
